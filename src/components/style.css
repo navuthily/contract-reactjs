@@ -1,0 +1,17 @@
+.div-save{
+  display: flex;
+  justify-content:end;
+  margin: 20px;
+
+}
+
+.dx-htmleditor-outlined{
+  flex: 80%;
+}
+.form-create-contract{
+  flex:20%;
+}
+.btn-attr{
+  display: block;
+  width: 147px;
+}
